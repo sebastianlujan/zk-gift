@@ -1,2 +1,2 @@
 # zk-gift
-An experiment for sozu house
+A ZK experiment for sozu house
